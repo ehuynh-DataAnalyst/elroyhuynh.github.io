@@ -1,6 +1,10 @@
 /*
 COVID-19 Data Exploration 
-Skills Used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views
+
+Skills Highlighted: Joins, CTEs, Temp Tables, Windows Functions, Aggregate Functions, Creating Views
+
+These queries were written and executed in BigQuery (Google Cloud Platform) and could not 
+be exported directly to my GitHub repository, so I've simply copied and pasted it for now.
 */
 
 SELECT * 
